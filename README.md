@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Eugénie Françon
+### Hi there, I'm Eugénie Françon 👋
 
 <!--
 **EugenieF/EugenieF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +17,9 @@ Here are some ideas to get you started:
 
 ## My 42 projects
 - Standart C library : [libt](https://github.com/EugenieF/42_libft)
-- Program multithread : [philosophers](https://github.com/EugenieF/42_philosophers)
+- Multithreaded program : [philosophers](https://github.com/EugenieF/42_philosophers)
 - Unix shell : [minishell](https://github.com/louisnfr/minishell)
 - Raytracer : [miniRT](https://github.com/EugenieF/42_miniRT)
 - STL containers : [ft_containers](https://github.com/EugenieF/42_ft_containers)
-- Docker environment : [inception](https://github.com/EugenieF/42_inception)
+- Introduction to Docker : [inception](https://github.com/EugenieF/42_inception)
 - HTTP server : [webserv](https://github.com/EugenieF/42_webserv)
