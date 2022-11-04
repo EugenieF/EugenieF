@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## My 42 projects
 - Standart C library : [libt](https://github.com/EugenieF/42_libft)
 - Multithreaded program : [philosophers](https://github.com/EugenieF/42_philosophers)
-- Unix shell : [minishell](https://github.com/louisnfr/minishell)
+- Unix shell : [minishell](https://github.com/EugenieF/42_minishell)
 - Raytracer : [miniRT](https://github.com/EugenieF/42_miniRT)
 - STL containers : [ft_containers](https://github.com/EugenieF/42_ft_containers)
 - Introduction to Docker : [inception](https://github.com/EugenieF/42_inception)
