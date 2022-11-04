@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ## My 42 projects
-- [libt](https://github.com/EugenieF/42_libft)
-- [philosophers](https://github.com/EugenieF/42_philosophers)
-- [minishell](https://github.com/louisnfr/minishell)
-- [miniRT](https://github.com/EugenieF/42_miniRT)
-- [ft_containers](https://github.com/EugenieF/42_ft_containers)
-- [inception](https://github.com/EugenieF/42_inception)
-- [webserv](https://github.com/EugenieF/42_webserv)
+- Standart C library : [libt](https://github.com/EugenieF/42_libft)
+- Program multithread : [philosophers](https://github.com/EugenieF/42_philosophers)
+- Unix shell : [minishell](https://github.com/louisnfr/minishell)
+- Raytracer : [miniRT](https://github.com/EugenieF/42_miniRT)
+- STL containers : [ft_containers](https://github.com/EugenieF/42_ft_containers)
+- Docker environment : [inception](https://github.com/EugenieF/42_inception)
+- HTTP server : [webserv](https://github.com/EugenieF/42_webserv)
