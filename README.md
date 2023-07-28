@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - STL containers : [ft_containers](https://github.com/EugenieF/42_ft_containers)
 - Introduction to Docker : [inception](https://github.com/EugenieF/42_inception)
 - HTTP server : [webserv](https://github.com/EugenieF/42_webserv)
+- Full-stack app with NestJS and React : [ft_transcendence](https://github.com/EugenieF/42_ft_transcendence)
